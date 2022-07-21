@@ -110,3 +110,9 @@ body {
 .hide {
     display: none;
 }
+
+@media (max-width: 576px) {
+    body {
+        width: 90%;
+    }
+}
